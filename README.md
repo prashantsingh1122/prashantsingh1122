@@ -114,7 +114,7 @@ AI-powered blogging platform built using the MERN stack with cloud deployment an
 
 ### LeetCode
 
-https://leetcode.com/u/Prashant__Singh/
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Prashant__Singh/)
 
 ### LeetCode Activity
 
@@ -122,7 +122,7 @@ https://leetcode.com/u/Prashant__Singh/
 
 ### HackerRank
 
-https://www.hackerrank.com/profile/prashantsingh351
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/prashantsingh351)
 
 ---
 
