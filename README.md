@@ -54,10 +54,6 @@ Computer Science graduate passionate about building scalable web applications, s
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-### Tools
-
-Git • GitHub • Postman
-
 ---
 
 ## 🌟 Featured Projects
