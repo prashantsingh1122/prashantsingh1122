@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Prashant Singh Banner" />
+</p>
+
 # Hi there, I'm Prashant Singh 👋
 
 ### Backend & Full Stack Developer | Node.js | React | PostgreSQL | AWS | Docker
