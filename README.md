@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="Banner.png" alt="Prashant Singh Banner" />
+  <img src="Banner.png" width="100%" alt="Prashant Singh Banner"/>
 </p>
 
+<br>
 # Hi there, I'm Prashant Singh 👋
 
 ### Backend & Full Stack Developer | Node.js | React | PostgreSQL | AWS | Docker
