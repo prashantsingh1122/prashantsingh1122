@@ -63,25 +63,6 @@ Computer Science graduate passionate about building scalable web applications, s
 
 ## 🌟 Featured Projects
 
-### 📝 ThinkInk
-
-AI-powered blogging platform built using the MERN stack with cloud deployment and AI-assisted content generation.
-
-#### Features
-
-* JWT Authentication & Protected Routes
-* AI Content Generation using Google Gemini
-* Comments & Likes System
-* Dockerized Deployment
-* AWS EC2 Hosting
-* GitHub Actions CI/CD Pipeline
-
-🔗 Repository: https://github.com/prashantsingh1122/ThinkInk
-
-🌐 Live Demo: https://think-ink-jet.vercel.app/
-
----
-
 ### 🎓 EduCast
 
 Real-time educational content broadcasting platform designed for content sharing, live updates, and interactive engagement.
@@ -100,6 +81,25 @@ Real-time educational content broadcasting platform designed for content sharing
 🔗 Repository: https://github.com/prashantsingh1122/Real-Time-Polling-and-content-broadcasting-system
 
 🌐 Live Demo: https://content-broadcasting-system-three.vercel.app/
+
+---
+
+### 📝 ThinkInk
+
+AI-powered blogging platform built using the MERN stack with cloud deployment and AI-assisted content generation.
+
+#### Features
+
+* JWT Authentication & Protected Routes
+* AI Content Generation using Google Gemini
+* Comments & Likes System
+* Dockerized Deployment
+* AWS EC2 Hosting
+* GitHub Actions CI/CD Pipeline
+
+🔗 Repository: https://github.com/prashantsingh1122/ThinkInk
+
+🌐 Live Demo: https://think-ink-jet.vercel.app/
 
 ---
 
